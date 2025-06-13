@@ -36,6 +36,10 @@ Intertek Fact Sheet:
 CPSC GCC Guidelines (General Certificate of Conformity):
 * https://www.cpsc.gov/Business--Manufacturing/Testing-Certification/General-Certificate-of-Conformity
 
+UN 38.3:
+* https://unece.org/fileadmin/DAM/trans/danger/publi/manual/Manual%20Rev5%20Section%2038-3.pdf
+* https://www.compliancegate.com/un-38-3-guide/
+
 Lithium Battery Shipping:
 * https://www.fedex.com/content/dam/fedex/us-united-states/services/LithiumBattery_Overview.pdf
 * https://www.iata.org/contentassets/50a83848e331470e8c5e735bc1d27727/image6fj1.png
