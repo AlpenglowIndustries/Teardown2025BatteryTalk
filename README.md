@@ -28,6 +28,7 @@ Test Probe 11 - The Rigid Test Finger:
 
 UL Info:
 * https://www.ul.com/sites/default/files/2024-03/REESES-Law-FAQ.pdf
+* https://www.ulstandards.com/onlineviewer/onlineviewer.aspx?StandardDocumentID=29088&UserUsageID=5852195
 
 Intertek Fact Sheet:
 * https://www.oaktreeproducts.com/img/product/description/Reese%27s%20Law%20Documentation.pdf
