@@ -22,6 +22,10 @@ UL4200A test reports:
 * https://pdf.lowes.com/productdocuments/361316d9-313b-46f4-8f90-0682cb0e53a0/67664912.pdf
 * https://www.arka-biotech.de/fileadmin/Dokumente/Sicherheitsdatenblätter/LR44_UL4200A_-20240507_2_.pdf
 
+Test Probe 11 - The Rigid Test Finger:
+* http://www.iec61032.com/downloads/Test-Probe-11.html
+* http://www.iecgauges.com/Uploads/download/573ae61fe6b78.pdf
+
 UL Info:
 * https://www.ul.com/sites/default/files/2024-03/REESES-Law-FAQ.pdf
 
