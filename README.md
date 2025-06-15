@@ -36,6 +36,12 @@ Intertek Fact Sheet:
 CPSC GCC Guidelines (General Certificate of Conformity):
 * https://www.cpsc.gov/Business--Manufacturing/Testing-Certification/General-Certificate-of-Conformity
 
+CE Testing:
+* https://www.jjrlab.com/news/lithium-battery-iec-en62133-testing-requirements.html
+
+CR2032 Datasheet:
+* https://data.energizer.com/pdfs/cr2032.pdf
+
 UN 38.3:
 * https://unece.org/fileadmin/DAM/trans/danger/publi/manual/Manual%20Rev5%20Section%2038-3.pdf
 * https://www.compliancegate.com/un-38-3-guide/
