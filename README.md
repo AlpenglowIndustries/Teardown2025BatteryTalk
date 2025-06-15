@@ -47,6 +47,8 @@ UN 38.3:
 * https://www.compliancegate.com/un-38-3-guide/
 
 Lithium Battery Shipping:
+* https://pe.usps.com/text/pub52/pub52apxc_032.htm
+* https://assets.ups.com/adobe/assets/urn:aaid:aem:62d93744-7fb0-4c32-8969-a713a48839f9/original/as/pack-ship-batteries-us-en.pdf
 * https://www.fedex.com/content/dam/fedex/us-united-states/services/LithiumBattery_Overview.pdf
 * https://www.iata.org/contentassets/50a83848e331470e8c5e735bc1d27727/image6fj1.png
 * https://www.iata.org/en/publications/newsletters/iata-knowledge-hub/what-to-know-about-how-to-ship-lithium-batteries
