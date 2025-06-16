@@ -21,6 +21,7 @@ Reese’s Law:
 UL4200A test reports:
 * https://pdf.lowes.com/productdocuments/361316d9-313b-46f4-8f90-0682cb0e53a0/67664912.pdf
 * https://www.arka-biotech.de/fileadmin/Dokumente/Sicherheitsdatenblätter/LR44_UL4200A_-20240507_2_.pdf
+* https://s3.cn-north-1.amazonaws.com.cn/tacticsource/10320/202312/s4200A_1_UniversalElectronicsInc21140246.pdf
 
 Test Probe 11 - The Rigid Test Finger:
 * http://www.iec61032.com/downloads/Test-Probe-11.html
