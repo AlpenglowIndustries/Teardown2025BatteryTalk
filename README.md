@@ -3,6 +3,11 @@
 
 This is a repo for slides and links to battery information and regulations.
 
+Public link to slides:
+* https://www.canva.com/design/DAGqLzF1dQg/PsCFn5-dAV91Doaly4ey2Q/view?utm_content=DAGqLzF1dQg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1618b96104
+
+Note that several slides use images & text that were sequentially overlaid upon a button click, these sadly do not export well and just show the final jumble of everything overlaid.  If you have any questions about those slides, feel free to message me.
+
 Summary of Lithium and Coin Cell Shipping & Product Regs:
 * https://www.compliancegate.com/lithium-battery-safety-standards-united-states/#Consumer_Product_Safety_Improvement_Act_CPSIA
 
